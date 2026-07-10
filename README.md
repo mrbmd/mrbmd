@@ -1,16 +1,59 @@
-## Hi there 👋
+----------------------------------------------------
 
-<!--
-**mrbmd/mrbmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bhushan Dabhade
 
-Here are some ideas to get you started:
+DevOps & Cloud Engineer
+Azure • AKS • Automation • PowerShell • Azure DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------------------
+
+About Me
+
+Current DevOps / Cloud Engineer
+Working on Azure Infrastructure
+AKS Operations
+Infrastructure Automation
+Azure Cost Optimization
+Learning Azure AI & Copilot Studio
+
+----------------------------------------------------
+
+Skills
+
+Azure
+AKS
+Docker
+Azure DevOps
+PowerShell
+ARM Templates
+Terraform
+GitHub Actions
+Azure Monitor
+Key Vault
+Application Gateway
+
+----------------------------------------------------
+
+Currently Learning
+
+Terraform
+AZ-104
+AZ-400
+Azure AI Foundry
+Copilot Studio
+
+----------------------------------------------------
+
+Featured Projects
+
+Azure Automation Runbooks
+
+AKS Troubleshooting Guide
+
+Azure Cost Optimization
+
+Terraform Azure Labs
+
+Copilot Studio Projects
+
+----------------------------------------------------
